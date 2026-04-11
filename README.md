@@ -7,7 +7,7 @@ This folder is a **self-contained snapshot** on your Desktop: Gradle project, li
 | Path | Description |
 |------|-------------|
 | `README.md` | This file |
-| `LICENSE` | CC0-1.0 legal text |
+| `LICENSE` | AGPL-3.0 legal text |
 | `.gitignore` | Ignores `.gradle/`, `build/`, IDE files, etc. |
 | `dimensional-explosive-hits-1.21.11.jar` | Remapped mod — copy into your `.minecraft/mods` (with Fabric API) |
 | `build.gradle`, `settings.gradle`, `gradle.properties` | Gradle / Loom configuration |
