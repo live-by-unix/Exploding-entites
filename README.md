@@ -1,7 +1,8 @@
 # Dimensional Explosive Hits — source bundle
 
 This folder is a **self-contained snapshot** Gradle project, license, ignore rules, wrapper, and a **prebuilt** Fabric jar for Minecraft **1.21.11**.
-Hallo, bob
+
+
 ## Layout
 
 | Path | Description |
